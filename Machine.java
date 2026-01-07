@@ -142,10 +142,5 @@ public class Machine {
                     System.out.println("I have been cleaned!");
                 }
 
-
-
-
-
-
 }
 
